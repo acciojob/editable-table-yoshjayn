@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 
 const initialData = [
-  { id: 1, name: "dav", age: 23 },
+  { id: 1, name: "Ram", age: 23 },
   { id: 2, name: "Shyam", age: 30 },
   { id: 3, name: "Ali", age: 35 },
   { id: 4, name: "Shaw", age: 20 },
